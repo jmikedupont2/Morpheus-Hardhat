@@ -5,7 +5,7 @@
 //TODO: Add security measures
 //TODO: calculate and distribute fees based on the "4Cs" system (see Morpheus specifications)
 
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.4;
 
 import "@openzeppelin/contracts-upgradeable/access/OwnableUpgradeable.sol";
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";

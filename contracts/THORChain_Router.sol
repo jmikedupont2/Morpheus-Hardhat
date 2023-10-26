@@ -2,7 +2,7 @@
 // -------------------
 // Router Version: 4.0
 // -------------------
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.4;
 
 // ERC20 Interface
 interface iERC20 {
